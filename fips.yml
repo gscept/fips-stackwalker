@@ -1,0 +1,10 @@
+#
+# fips-stackwalker/
+#
+
+exports:
+    header-dirs:
+      - StackWalker/Main
+
+    modules:
+        StackWalker:   .
